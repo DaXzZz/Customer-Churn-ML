@@ -1,0 +1,13 @@
+customer_id,actual_churn,predicted_churn,churn_probability
+C040,No,Yes,0.6344
+C037,No,No,0.069
+C030,No,No,0.0041
+C016,No,No,0.0118
+C034,Yes,Yes,0.9299
+C014,No,No,0.0463
+C019,Yes,Yes,0.9923
+C022,No,No,0.0869
+C023,Yes,Yes,0.9794
+C032,Yes,Yes,0.9069
+C039,No,No,0.0395
+C029,Yes,Yes,0.9431
